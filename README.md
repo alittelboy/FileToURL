@@ -1,9 +1,12 @@
 # FileToURL
 upload file and get URL for free !! eternally accessible
 
-# Runtime shortcut
+file should be <20M
 
-![](https://oss.chaojibiaoge.com/uploadfile/2021/06/main_vqDUSQ.jpg)
+this app is based on https://www.chaojibiaoge.com , thinks to thier API providing. You can visit thier web and find more products of them !
+
+
+# Runtime shortcut
 
 https://oss.chaojibiaoge.com/uploadfile/2021/06/main_vqDUSQ.jpg
 
