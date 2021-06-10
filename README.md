@@ -7,6 +7,7 @@ this app is based on https://www.chaojibiaoge.com , thinks to thier API providin
 
 
 # Runtime shortcut
+![sample]https://oss.chaojibiaoge.com/uploadfile/2021/06/main_vqDUSQ.jpg
 
 https://oss.chaojibiaoge.com/uploadfile/2021/06/main_vqDUSQ.jpg
 
